@@ -1,1 +1,1 @@
-# zmm_rabbit
+# zmm_rabbitmq
